@@ -45,6 +45,6 @@ termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019060501
 traitlets==4.3.2
 wcwidth==0.1.7
-Werkzeug==0.15.4
+Werkzeug==0.15.5
 wrapt==1.11.1
 yolk3k==0.9
